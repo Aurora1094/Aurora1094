@@ -66,9 +66,23 @@
 
 
 ## 📌 Featured Projects
+### 1. 基于phong模型的Ray Tracing图形渲染器
+* 
+
+### 2.  时序多变量教育数据分析
+* 
+### 3.  *ModelScope* 大模型实战冬令营·南开大学站
+* 
 
 
 
+
+## 🎖 Honors & Awards
+- **2025-01** · CSIA Certification (China Software Industry Association) — Software Professional Talent Training Program (中国软件专业人才培养工程认证，CSIA)
+- **2025-05** · Outstanding Youth League Member, Nankai University（优秀共青团员）
+- **2025-09** · National Scholarship (¥10,000; Top 0.6%), China（国家奖学金）
+- **2025-09** · Outstanding Student, Nankai University（南开大学三好学生）
+- **2025-10** · CMC (Non-math A) Provincial First Prize（CMC 非数学 A 类 省级一等奖）
 
 ## 📈 My GitHub 
 ### GitHub stats
@@ -87,9 +101,3 @@
 
 
 
-## 🎖 Honors & Awards
-- **2025-01** · CSIA Certification (China Software Industry Association) — Software Professional Talent Training Program (中国软件专业人才培养工程认证，CSIA)
-- **2025-05** · Outstanding Youth League Member, Nankai University（优秀共青团员）
-- **2025-09** · National Scholarship (¥10,000; Top 0.6%), China（国家奖学金）
-- **2025-09** · Outstanding Student, Nankai University（南开大学三好学生）
-- **2025-10** · CMC (Non-math A) Provincial First Prize（CMC 非数学 A 类 省级一等奖）
