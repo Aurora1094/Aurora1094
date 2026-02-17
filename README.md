@@ -76,7 +76,7 @@
 
 **Tech Stack**：`C++` `Qt` `Ray Tracing` `Phong Illumination`
 
-### 2.  时序多变量教育数据分析
+### 2.  析数启智
 一个把“刷题日志”变成“教学雷达”的可视分析系统：实现教学进度管理与个性化诊断。
 
 **Highlights**
