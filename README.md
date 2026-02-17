@@ -106,6 +106,7 @@
 - **2025.01**, CSIA Certification (China Software Industry Association) — Software Professional Talent Training Program (中国软件专业人才培养工程认证，CSIA)
 
 ## 📈 My GitHub 
+<!--
 ### GitHub stats
 
 [![Aurora1094's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aurora1094&show_icons=true&theme=graywhite&count_private=true&repo=github-readme-stats&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -113,6 +114,7 @@
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurora1094&theme=graywhite&bg_color=0,B3FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true&hide=VHDL,Verilog,C++&layout=compact&langs_count=6&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ### Contributions
 
