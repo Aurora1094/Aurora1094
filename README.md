@@ -99,7 +99,7 @@
 
 
 ## 🎖 Honors & Awards
-- **2026.03**, Outstanding Youth League Member, Nankai University（优秀共青团员）
+- **2026.05**, Outstanding Youth League Member, Nankai University（优秀共青团员）
 - **2026.01**, Honorable Mention, Mathematical Contest in Modeling (MCM), COMAP（美国大学生数学建模竞赛 H 奖）
 - **2025.10**, CMC (Non-math A) Provincial First Prize（CMC 非数学 A 类 省级一等奖）
 - **2025.09**, Outstanding Student, Nankai University（南开大学三好学生）
