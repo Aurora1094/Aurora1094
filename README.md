@@ -25,7 +25,7 @@
 
 - AIGC 检测
 - LLM 可解释性
-- LLM Agent
+- LLM Agents
 
 ## Tech Stack
 
