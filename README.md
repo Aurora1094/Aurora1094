@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Eugene 👋</h1>
+<h1 align="center">Hi, I'm Yuzhe (Eugene) Zhao👋</h1>
 
 <p align="center">
   Software Engineering @ Nankai University
