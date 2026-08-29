@@ -42,12 +42,13 @@
 
 ## GitHub Activity
 
-<div align="center">
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Aurora1094&theme=react-dark&hide_border=true"
+    alt="Yuzhe's GitHub Activity Graph"
     width="100%"
   />
-</div>
+</p>
 
 <p align="center">
   <i>Taste is all you need.</i>
