@@ -23,7 +23,7 @@
 
 - 视觉生成
 - LLM 可解释性
-- Agents
+- Agents memory
 
 ## Tech Stack
 
