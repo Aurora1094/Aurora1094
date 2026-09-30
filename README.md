@@ -4,9 +4,7 @@
   Software Engineering @ Nankai University
 </p>
 
-<p align="center">
-  AIGC Detection · LLM Interpretability · LLM Agents
-</p>
+
 
 <p align="center">
   <a href="mailto:zhaoyuzhe@mail.nankai.edu.cn">
@@ -23,9 +21,9 @@
 
 南开大学软件工程专业本科生，目前主要关注：
 
-- AIGC 检测
+- 图像生成
 - LLM 可解释性
-- LLM Agents
+- Agents
 
 ## Tech Stack
 
@@ -35,11 +33,9 @@
 
 ## Honors
 
-- 2025 年南开大学国家奖学金
-- 中国高校计算机大赛 AIGC 创新赛华北赛区一等奖
-- CMC 全国大学生数学竞赛非数学 A 类省级一等奖
-- 南开大学三好学生、优秀共青团员
-
+-  2024-2025 南开大学国家奖学金
+-  2025-2026 南开大学国家奖学金
+-  比亚迪奖学金
 ---
 
 <p align="center">
